@@ -47,3 +47,7 @@ Divide and conquer Linear space knapsack: (empirical analysis2)
 This graph is made in MS Excel and can be found in sheet 1 of the file. x-axis contains the 
 "log(No of items)" values and y-axis has the "log(execution time in milliseconds)" values. There is
 curve fitting and slope is calculated from the equation of the trendline.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/programmingNinja/knapsack-problem-and-analysis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
